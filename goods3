@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfGoodsSystemObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <goodsSystemObject>
+    <Name>Редиска</Name>
+    <ImportCountry>Беларусь</ImportCountry>
+    <Volume>2050</Volume>
+    <Manufacturercountry>Россия</Manufacturercountry>
+  </goodsSystemObject>
+  <goodsSystemObject>
+    <Name>Кофе</Name>
+    <ImportCountry>Зимбабве</ImportCountry>
+    <Volume>150</Volume>
+    <Manufacturercountry>Эфиопия</Manufacturercountry>
+  </goodsSystemObject>
+  <goodsSystemObject>
+    <Name>Картошка</Name>
+    <ImportCountry>Беларусь</ImportCountry>
+    <Volume>500</Volume>
+    <Manufacturercountry>Беларусь</Manufacturercountry>
+  </goodsSystemObject>
+  <goodsSystemObject>
+    <Name>Свекла</Name>
+    <ImportCountry>Украина</ImportCountry>
+    <Volume>90</Volume>
+    <Manufacturercountry>Беларусь</Manufacturercountry>
+  </goodsSystemObject>
+</ArrayOfGoodsSystemObject>
